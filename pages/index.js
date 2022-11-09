@@ -15,6 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Hola mundo!
         </h1> 
+        <p>Proyecto Next App</p>
       </main>
     </div>
   )
